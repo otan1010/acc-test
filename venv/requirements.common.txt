@@ -1,0 +1,2 @@
+ujson==1.35
+-e git+https://github.com/drougge/gzutil.git@dbd87fd86d4929f27b1e9cf940da79388a2282c7#egg=gzutil
